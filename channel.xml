@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!-- Árvores proprietarias -->
-    <project path="device/motorola/channel" name="kaspesk/device_motorola_channel" remote="github" revision="11.0" />
-    <project path="kernel/motorola/sdm632" name="kaspesk/kernel_motorola_sdm632" remote="github" revision="11.0" />
+    <project path="device/motorola/channel" name="katakishi0/device_motorola_channel" remote="github" revision="11.0" />
+    <project path="kernel/motorola/sdm632" name="katakishi0/kernel_motorola_sdm632" remote="github" revision="11.0" />
     <project path="vendor/motorola/channel" name="katakishi0/vendor_motorola_channel" remote="github" revision="11.0" />
     
     <!-- Dependências -->
